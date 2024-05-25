@@ -9,7 +9,7 @@ exchange = ccxt.binance({
 
 # Define the trading pair and target price
 trading_pair = 'PI/USDT'
-target_price = 314159
+target_price = Walang value to tanga uto uto
 
 # Loop indefinitely
 while True:
